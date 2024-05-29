@@ -1,0 +1,9 @@
+/Users/koldorney/Desktop/projeks/dive/target/debug/deps/libdioxus_core_macro-ced8edc59a13217a.dylib: /Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/lib.rs /Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/component.rs /Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/props/mod.rs /Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/utils.rs /Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/../README.md
+
+/Users/koldorney/Desktop/projeks/dive/target/debug/deps/dioxus_core_macro-ced8edc59a13217a.d: /Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/lib.rs /Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/component.rs /Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/props/mod.rs /Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/utils.rs /Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/../README.md
+
+/Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/lib.rs:
+/Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/component.rs:
+/Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/props/mod.rs:
+/Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/utils.rs:
+/Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/../README.md:

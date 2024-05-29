@@ -1,0 +1,10 @@
+/Users/koldorney/Desktop/projeks/dive/target/wasm32-unknown-unknown/debug/deps/libgloo_storage-ce4eceb6d1ccd85f.rmeta: /Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/lib.rs /Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/errors.rs /Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/local_storage.rs /Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/session_storage.rs
+
+/Users/koldorney/Desktop/projeks/dive/target/wasm32-unknown-unknown/debug/deps/libgloo_storage-ce4eceb6d1ccd85f.rlib: /Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/lib.rs /Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/errors.rs /Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/local_storage.rs /Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/session_storage.rs
+
+/Users/koldorney/Desktop/projeks/dive/target/wasm32-unknown-unknown/debug/deps/gloo_storage-ce4eceb6d1ccd85f.d: /Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/lib.rs /Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/errors.rs /Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/local_storage.rs /Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/session_storage.rs
+
+/Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/lib.rs:
+/Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/errors.rs:
+/Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/local_storage.rs:
+/Users/koldorney/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/session_storage.rs:
